@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyzing 
 - 🌱 I’m currently pursing master degree at Chulalongkorn University, Bangkok, Thailand 
 - 💞️ I’m looking to collaborate on big data managment and analyzing in health care
-- 📫 How to reach me >> khaingsuthway@gmail.com
+- 📫 How to reach me >>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khaing-su-thway-81a82512b)
 
 <!---
 KhaingSuThway/KhaingSuThway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
