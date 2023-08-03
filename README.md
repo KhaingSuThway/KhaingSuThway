@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://leetcard.jacoblin.cool/KhaingSu?theme=dark&font=Abel" />
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaingSuThway&theme=radical) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhaingSuThway&theme=radical) 
