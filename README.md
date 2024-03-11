@@ -16,9 +16,6 @@ You can click the Preview link to take a look at your changes.
 <img alt="Coder GIF" height=250 width=350 src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e471wkyl6k82bkuaf2fq5z56077tgc3zqn9wbs1g688&rid=giphy.gif&ct=g" />
 </div>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://leetcard.jacoblin.cool/KhaingSu?theme=dark&font=Abel" />
-</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaingSuThway&theme=radical) 
 
