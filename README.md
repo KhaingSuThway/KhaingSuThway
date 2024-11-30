@@ -1,7 +1,6 @@
-- 👋 Hello there, fellow Pythonista! I'm @KhaingSu, and I'm on a thrilling quest for data adventures!
-- 📊💻 I'm a data hunter, always on the lookout for exciting projects that unravel the mysteries hidden within data.
+- Hello there, fellow Pythonista! I'm @KhaingSu, and I'm on a thrilling quest for data adventures!
+- I'm a data hunter, always on the lookout for exciting projects that unravel the mysteries hidden within data.
 - 👀 My passion lies in exploring the vast world of data, and I have a soft spot for all things related to health care.
-- 🏥 As a humble M.Eng graduate in Bioelectronics Engineering from Chulalongkorn University, Bangkok, Thailand, I've honed my skills in handling big data and bioelectronics with finesse! 
 - 🌱 My journey has been filled with curiosity and continuous learning. I'm eager to make a meaningful impact in the health care industry by analyzing data and uncovering insights that lead to better lives for all. 💞
 
 - 
